@@ -9,6 +9,11 @@ hotspots in certain scenes as well on other inventory items.
 
 It supports mouse as well as touch devices.
 
+## Example
+
+See the [example](https://dploeger.github.io/godot-mdna-inventory/index.html) for
+how it works.
+
 ## Usage
 
 Create an InventoryConfiguration resource and configure the inventory to
